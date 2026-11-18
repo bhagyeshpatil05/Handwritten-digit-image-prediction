@@ -40,3 +40,11 @@ Use one digit in dark ink on a plain light background (a photo or a drawing from
 
 Result :-
 ![alt text](image.png)
+
+Graph :-
+
+![alt text](results/fig3_training_curves.png)
+
+Final Prediction:-
+
+![alt text](results/fig5_predictions.png)
